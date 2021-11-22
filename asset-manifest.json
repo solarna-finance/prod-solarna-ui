@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.478ba218.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.7108e999.js",
+    "static/js/2.bfc18d76.chunk.js": "/static/js/2.bfc18d76.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.bfc18d76.chunk.js.LICENSE.txt": "/static/js/2.bfc18d76.chunk.js.LICENSE.txt",
+    "static/media/logo.a0cf9610.png": "/static/media/logo.a0cf9610.png",
+    "static/media/serum-logo.de2794a1.svg": "/static/media/serum-logo.de2794a1.svg",
+    "static/media/solana-logo.06e258d7.svg": "/static/media/solana-logo.06e258d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7108e999.js",
+    "static/js/2.bfc18d76.chunk.js",
+    "static/js/main.478ba218.chunk.js"
+  ]
+}
