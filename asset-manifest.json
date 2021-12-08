@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.9b108d1d.chunk.js",
+    "main.js": "/static/js/main.23a2940f.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.8650a76b.js",
     "static/css/2.4ba4c754.chunk.css": "/static/css/2.4ba4c754.chunk.css",
-    "static/js/2.448356dc.chunk.js": "/static/js/2.448356dc.chunk.js",
+    "static/js/2.36896400.chunk.js": "/static/js/2.36896400.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.448356dc.chunk.js.LICENSE.txt": "/static/js/2.448356dc.chunk.js.LICENSE.txt",
+    "static/js/2.36896400.chunk.js.LICENSE.txt": "/static/js/2.36896400.chunk.js.LICENSE.txt",
     "static/media/logo.a0cf9610.png": "/static/media/logo.a0cf9610.png",
     "static/media/serum-logo.de2794a1.svg": "/static/media/serum-logo.de2794a1.svg",
     "static/media/solana-logo.06e258d7.svg": "/static/media/solana-logo.06e258d7.svg"
@@ -13,7 +13,7 @@
   "entrypoints": [
     "static/js/runtime-main.8650a76b.js",
     "static/css/2.4ba4c754.chunk.css",
-    "static/js/2.448356dc.chunk.js",
-    "static/js/main.9b108d1d.chunk.js"
+    "static/js/2.36896400.chunk.js",
+    "static/js/main.23a2940f.chunk.js"
   ]
 }
